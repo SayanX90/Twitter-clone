@@ -17,4 +17,3 @@ The Twitter Clone allows users to:
 
 - **HTML**
 - **Tailwind CSS**
-- **JavaScript (optional features)**
